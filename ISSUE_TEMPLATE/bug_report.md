@@ -1,11 +1,9 @@
 Markdown
 
----
 name: Bug Report
 about: Report a bug
 title: '[BUG]: '
 labels: ['bug']
----
 
 ## Bug Description
 A clear description of what the bug is
