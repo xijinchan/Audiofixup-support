@@ -12,7 +12,7 @@ This is the official issue tracker for Audiofixup Chrome browser extension.
 
 - [Chrome Web Store Page](link TBC)
 - [Privacy Policy](link TBC)
-- [Website / Documentation](link TBC)
+- [Website / Documentation](https://xijin.co.uk/AudiofixupPrivacyPolicy)
 
 ---
 
