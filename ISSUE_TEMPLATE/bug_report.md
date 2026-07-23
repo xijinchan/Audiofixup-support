@@ -1,5 +1,7 @@
 **`bug_report.md`**:
-```markdown
+
+markdown
+
 ---
 name: Bug Report
 about: Report a bug
@@ -11,7 +13,7 @@ labels: bug
 A clear description...
 
 **Steps to reproduce**
-1. 
+1.
 2.
 
 **Expected behavior**
