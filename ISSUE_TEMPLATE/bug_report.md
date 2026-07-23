@@ -1,9 +1,7 @@
-Markdown
-
-name: Bug Report
-about: Report a bug
-title: '[Bug]: '
-labels: ['bug']
+## name: Bug Report
+## about: Report a bug
+## title: '[Bug]: '
+## labels: ['bug']
 
 ## Bug Description
 A clear description of what the bug is
