@@ -2,7 +2,7 @@ Markdown
 
 name: Bug Report
 about: Report a bug
-title: '[BUG]: '
+title: '[Bug]: '
 labels: ['bug']
 
 ## Bug Description
