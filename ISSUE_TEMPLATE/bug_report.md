@@ -1,10 +1,10 @@
 Markdown
 
 ---
-name: Bug Report
-about: Report a bug
-title: '[BUG]: '
-labels: ['bug']
+name: Bug Report\n
+about: Report a bug\n
+title: '[BUG]: '\n
+labels: ['bug']\n
 ---
 
 ## Bug Description
