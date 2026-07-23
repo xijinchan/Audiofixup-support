@@ -16,4 +16,4 @@ This is the official issue tracker for Audiofixup Chrome browser extension.
 
 ---
 
-**Note**: This repository is for support and feature requests only. The source code is private.
+**Note**: This repository is for bug reports only. The source code is private.
